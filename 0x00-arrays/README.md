@@ -7,3 +7,5 @@
 3. [448-find_all_numbers_disappeared_in_an_arry](find_all_numbers_disappeared_in_an_arry.py): Given an array `nums` of `n` integers where `nums[i]` is in the range `[1, n]`, return an array of all the integers in the range `[1, n] `that do not appear in `nums`.[Source](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 
 4. [1.two_sum][1.two_sum.py]: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. [Source](https://leetcode.com/problems/two-sum/description/)
+
+5. [1365-how_many_are_smaller](1365-how_many_are_smaller.py): Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it. That is, for each nums[i] you have to count the number of valid j's such that j != i and nums[j] < nums[i]. [Source](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
