@@ -9,4 +9,3 @@
 4. [1.two_sum][1.two_sum.py]: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. [Source](https://leetcode.com/problems/two-sum/description/)
 
 5. [1365-how_many_are_smaller](1365-how_many_are_smaller.py): Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it. That is, for each nums[i] you have to count the number of valid j's such that j != i and nums[j] < nums[i]. [Source](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
-
