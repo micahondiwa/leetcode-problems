@@ -7,3 +7,4 @@ class Solution:
                 return i, hash_map[target - v]
             else:
                 hash_map[v] = i
+                
