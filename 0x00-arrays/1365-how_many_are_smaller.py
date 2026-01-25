@@ -12,3 +12,4 @@ class Solution:
         for i in nums:
             ret.append(d[i])
         return ret
+    
