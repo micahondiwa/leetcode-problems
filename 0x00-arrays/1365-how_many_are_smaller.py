@@ -1,3 +1,4 @@
+# Returns an array of the number of values/numbers smaller than the current number
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         temp = sorted(nums)
