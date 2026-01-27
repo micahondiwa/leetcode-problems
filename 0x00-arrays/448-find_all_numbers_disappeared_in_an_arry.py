@@ -7,4 +7,3 @@ class Solution:
             if i not in sets:
                 dis.append(i)
         return dis
-        
