@@ -5,7 +5,7 @@ def isPalindrome(s):
      """
     cleaned = [char.lower() for char in s if char.isalnum()]
 
-    low, high = 0, len(cleaned)-1
+    lelft, right = 0, len(cleaned)-1
     while low <= high:
          if cleaned[low] != cleaned[high]:
             return False
