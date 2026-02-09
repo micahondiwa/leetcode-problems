@@ -13,5 +13,6 @@ def isPalindrome(s):
          high -= 1
     return True
 # Example
-s = "A man, a plan, a canal: Panama"
+s1 = "A man, a plan, a canal: Panama"
+s2 = s = "race a car"
 print(isPalindrome(s))
