@@ -1,4 +1,4 @@
-def search(self, nums, target):
+def search(nums, target):
     """
     :type nums: List[int]
     :type target: int
@@ -19,3 +19,6 @@ def search(self, nums, target):
     return -1
 
 # Examples
+nums1 = [-1,0,3,5,9,12]
+print(search(nums=nums1, target=9))
+print(search(nums=nums1, target=2))
