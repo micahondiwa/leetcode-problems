@@ -15,5 +15,5 @@ def isPalindrome(s):
 # Example
 s1 = "A man, a plan, a canal: Panama"
 s2 = s = "race a car"
-print(isPalindrome(s))
-print(isPalindrome(s))
+print(isPalindrome(s1))
+print(isPalindrome(s2))
