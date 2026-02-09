@@ -7,7 +7,7 @@ def isPalindrome(s):
 
     lelft, right = 0, len(cleaned)-1
     while low <= high:
-         if cleaned[lelft] != cleaned[high]:
+         if cleaned[lelft] != cleaned[right]:
             return False
          low += 1
          high -= 1
