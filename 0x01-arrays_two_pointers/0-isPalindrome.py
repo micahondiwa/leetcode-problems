@@ -16,3 +16,4 @@ def isPalindrome(s):
 s1 = "A man, a plan, a canal: Panama"
 s2 = s = "race a car"
 print(isPalindrome(s))
+print(isPalindrome(s))
