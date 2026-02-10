@@ -6,7 +6,7 @@
 
 3. [2-removeDuplicates.py](2-removeDuplicates.py) - [Leetcode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/): Given an integer array ```nums``` sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Consider the number of unique elements in nums to be ```k​​​​​​​​​​​​​```​. After removing duplicates, return the number of unique elements ```k```. The first ```k``` elements of nums should contain the unique numbers in sorted order. The remaining elements beyond index ```k - 1``` can be ignored.
 
-4. [3-removeElement.py](3-removeElement.py) -[leetcode 27](https://leetcode.com/problems/remove-element/description/): Given an integer array ```nums``` and an integer ```val```, remove all occurrences of ```val``` in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
+4. [3-removeElement.py](3-removeElement.py) -[leetcode 27](https://leetcode.com/problems/remove-element/description/): Given an integer array ```nums``` and an integer ```val```, remove all occurrences of ```val``` in nums in-place. The order of the elements may be changed. Then return the number of elements in ```nums``` which are not equal to ```val```.
 
 Consider the number of elements in nums which are not equal to val be k, to get accepted, you need to do the following things:
 
