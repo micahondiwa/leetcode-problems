@@ -4,4 +4,8 @@
 
 2. [1-search](1-search.py) - [Leetcode 704](https://leetcode.com/problems/binary-search/description/): Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return ```-1```. You must write an algorithm with ```O(log n)``` runtime complexity.
 
-3. [2-removeDuplicates.py](2-removeDuplicates.py) - 
+3. [2-removeDuplicates.py](2-removeDuplicates.py) - [Leetcode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/): Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
+
+Consider the number of unique elements in nums to be k​​​​​​​​​​​​​​. After removing duplicates, return the number of unique elements k.
+
+The first k elements of nums should contain the unique numbers in sorted order. The remaining elements beyond index k - 1 can be ignored.
