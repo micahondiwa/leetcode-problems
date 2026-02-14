@@ -16,3 +16,4 @@ def intersection(self, nums1, nums2):
                 res.append(nums2[j])
         return res
         
+        
