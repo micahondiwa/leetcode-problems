@@ -13,5 +13,5 @@ Return ```k```.
 
 6. [5-intersection.py](5-intersection.py) - [Leetcode 349](https://leetcode.com/problems/intersection-of-two-arrays/description/) - Given two integer arrays ```nums1``` and ```nums2```, return an array of their intersection. Each element in the result must be unique and you may return the result in any order.
 
-7. [6-merge.py](6-merge.py) - 
+7. [6-merge.py](6-merge.py) - [Leetcode 88](https://leetcode.com/problems/merge-sorted-array/description/) - 
 
