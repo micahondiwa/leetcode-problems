@@ -96,7 +96,7 @@ class MyLinkedList(object):
             prev = prev.next
             pos += 1
 
-        # Cannot delete: index too large no node at position
+        # Cannot delete: index too large or no node at position
         if not prev or not prev.next:
             return
 
