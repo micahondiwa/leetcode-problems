@@ -6,11 +6,11 @@ def isPalindrome(s):
     cleaned = [char.lower() for char in s if char.isalnum()]
 
     lelft, right = 0, len(cleaned)-1
-    while low <= high:
+    while left <= right:
          if cleaned[lelft] != cleaned[right]:
             return False
-         low += 1
-         high -= 1
+         left += 1
+         right -= 1
     return True
 # Example
 s1 = "A man, a plan, a canal: Panama"
